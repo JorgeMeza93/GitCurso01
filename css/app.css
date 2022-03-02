@@ -1,8 +1,25 @@
 
 body{
+    margin: 0 auto;
     background-color: royalblue;
+    max-width: 1200px;
 }
 
 h1,h2,h3{
     color: #ffffff;
+    text-align: center;
+}
+
+header{
+    background: gold;
+    font-weight: 700;
+}
+
+a{
+    text-decoration: none;
+    color: #fff;
+}
+
+footer{
+    background-color: navy; 
 }
